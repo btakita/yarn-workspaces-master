@@ -1,0 +1,8 @@
+{
+  "name": "@prefix-a/workspace-a",
+  "version": "1.0.0",
+  "main": "lib.js",
+  "dependencies": {
+    "cross-env": "5.0.5"
+  }
+}
