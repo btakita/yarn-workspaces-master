@@ -1,7 +1,9 @@
 {
 	"name": "@prefix-a/workspace-a",
 	"version": "1.0.0",
-	"main": "lib.js",
+	"main": "app.js",
+	"module": "app.js",
+	"types": "app.ts",
 	"dependencies": {
 		"cross-env": "5.0.5"
 	},
