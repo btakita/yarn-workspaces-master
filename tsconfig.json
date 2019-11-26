@@ -1,0 +1,29 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"target": "es2018",
+		"baseUrl": ".",
+		"paths": {
+			"*": [
+				"node_modules/*"
+			]
+		},
+		"composite": true,
+		"declaration": true,
+
+		"noEmitOnError": true,
+		"noErrorTruncation": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"noImplicitAny": false,
+		"resolveJsonModule": true,
+		"allowSyntheticDefaultImports": true,
+		"noImplicitThis": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"typeRoots": [
+		]
+	},
+	"exclude": []
+}
